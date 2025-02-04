@@ -6,6 +6,8 @@ app.py is the streamlit app code.
 
 You may need to install additional libraries for running the jupyter notebooks.
 
-Command to run the project >>  streamlit run app.py
+Command to run the project >>  
+streamlit run app.py 
+python -m streamlit run app.py 
 
 pass key---  >> viewkey
